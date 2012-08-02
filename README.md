@@ -14,3 +14,6 @@ The output will be written as php code.
 This is very useful when you want to generate files with extension function and class 
 signatures so they can be added to a php project include path when working with a PHP IDE like Zend or Netbeans.
 
+It still have some issues with the extensions that can be used both by instantiating a class
+or directly by calling the functions.
+
